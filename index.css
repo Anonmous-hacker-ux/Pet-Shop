@@ -46,9 +46,11 @@ ul li {
 a{
     text-decoration: none;
     color:aliceblue;
+    font-size: 1.2em;
+    font-weight: 600;
 }
 a:hover{
-    color: rgba(234, 59, 59, 0.936);
+    color: rgba(41, 14, 110, 0.936);
     /* background-color: beige; */
     font-size: 1.1em;
     text-decoration:underline; 
@@ -61,7 +63,7 @@ marquee{
     position: fixed;
     top: 45px;
     left: 50px;
-    right: 50px;
+    right: 810px;
     font-size: 1.3em;
 }
 /* login page starts */
